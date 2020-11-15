@@ -15,3 +15,5 @@ No daily quest where found
 ## [HISTORY]Sinopsys
 Forsaker went The Tower of Twitch to complete the dream of his best friend.
 Floor 1 engages all the raid of Forsaker, the little rockie blows every thing away!
+Day 1, Is really really hard for leveling, there is no monsters, just  a few almost per hour, it's feels so sad, been alone, don't even for bring out all my rage.
+I hate this place, but is the only way and I don't care how many fall over here.
