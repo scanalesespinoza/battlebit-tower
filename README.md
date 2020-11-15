@@ -4,7 +4,7 @@ The Tower of Twitch
 # [MAIN MENU] Daily updates
 No daily quest where found
 # [MAIN MENU] Whatch LIVE
-(https://www.twitch.tv/forsakerbenadar)[t.tv/ForsakerBenAdar]
+!(https://www.twitch.tv/forsakerbenadar)[t.tv/ForsakerBenAdar]
 ## [Character]Forsaker Ben Adar, AKA Forsa
 - Level: 3
 - Floor 1
