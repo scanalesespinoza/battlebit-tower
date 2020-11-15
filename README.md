@@ -1,7 +1,6 @@
 # ttot
 The Tower of Twitch
-
-[TOC]
+# Author: Sergio Sebastián Canales Espinoza <sergio.canales.e@gmail.com>
 
 # [MAIN MENU] Whatch LIVE
 !(https://www.twitch.tv/forsakerbenadar)[t.tv/ForsakerBenAdar]
