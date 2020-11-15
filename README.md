@@ -1,7 +1,8 @@
 # ttot
 The Tower of Twitch
 # Author: Sergio Sebastián Canales Espinoza <sergio.canales.e@gmail.com>
-
+# Collaborators
+We are receiving PR for the story, any recomendation is welcome
 # [MAIN MENU] Whatch LIVE
 !(https://www.twitch.tv/forsakerbenadar)[t.tv/ForsakerBenAdar]
 ## [Character]Forsaker Ben Adar, AKA Forsa
