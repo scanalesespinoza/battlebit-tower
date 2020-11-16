@@ -24,3 +24,6 @@ I hate this place, but is the only way and I don't care how many fall over here.
 
 Day 2, Super tired, is so dark but I can not sleep, for some reazon my head don't want me rest, maybe is danger maybe some thing bad is going to happen.
 
+I fill I'm going forward, like baby steps, but at least steps, every one says that the begining is the wors part, and the only one as a few can tell. I have a little pain in my arm, hope is nothing serious, I can not let me go slowly time is not a friend today.
+
+
