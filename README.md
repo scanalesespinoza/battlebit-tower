@@ -27,6 +27,6 @@ Floor 1 engages all the raid of Forsaker, the little rockie blows every thing aw
 
 # [MAIN MENU] Daily updates
 ### Stats: 3 Viewers, 752 Viewsa, 18 Followers
-## [Chapter 1: From the bottom](day001.md)
+## [Chapter 1: From the bottom](day0001.md)
 
 
