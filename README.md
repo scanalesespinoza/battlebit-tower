@@ -1,8 +1,9 @@
-# ttot
-The Tower of Twitch
+# bbtower
+BattleBit Tower
+
 ## What is this?
-This is Forsaker agains The Tower of Twitch, the unique tower who is able to draw your destiny.
-The Tower of Twitch, the place where the dreams come true, but only if you reach the top.
+This is Forsaker agains The BattleBit Tower, the unique tower who is able to draw your destiny.
+BattleBit Tower, the place where the dreams come true, but only if you reach the top.
 
 ## Why?
 Because is tragic dying while recheing your dream, but is more tragic and sad be withness of that.
@@ -20,7 +21,7 @@ We are receiving PR for the story, any recomendation is welcome
 ## [Objectives]
 - Main Objective: Reach the top of the tower
 ## [HISTORY]Sinopsys
-Forsaker went The Tower of Twitch to complete the dream of his best friend.
+Forsaker went BattleBit Tower to complete the dream of his best friend.
 Floor 1 engages all the raid of Forsaker, the little rockie blows every thing away!
 
 
