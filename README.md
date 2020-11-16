@@ -19,5 +19,8 @@ Floor 1 engages all the raid of Forsaker, the little rockie blows every thing aw
 
 # [MAIN MENU] Daily updates
 ## Chapter 1: From the bottom
-Day 1, Is really really hard for leveling, there is no monsters, just  a few almost per hour, it's feels so sad, been alone, don't even for bring out all my rage.
+Day 1, is really really hard for leveling, there is no monsters, just  a few almost per hour, it's feels so sad, been alone, don't even for bring out all my rage.
 I hate this place, but is the only way and I don't care how many fall over here.
+
+Day 2, Super tired, is so dark but I can not sleep, for some reazon my head don't want me rest, maybe is danger maybe some thing bad is going to happen.
+
