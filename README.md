@@ -27,14 +27,6 @@ Floor 1 engages all the raid of Forsaker, the little rockie blows every thing aw
 
 # [MAIN MENU] Daily updates
 ### Stats: 3 Viewers, 752 Viewsa, 18 Followers
-## Chapter 1: From the bottom
-Day 1, is really really hard for leveling, there is no monsters, just  a few almost per hour, it's feels so sad, been alone, don't even for bring out all my rage.
-I hate this place, but is the only way and I don't care how many fall over here.
+## [Chapter 1: From the bottom](day001.md)
 
-Day 2, Super tired, is so dark but I can not sleep, for some reazon my head don't want me rest, maybe is danger maybe some thing bad is going to happen.
 
-I fill I'm going forward, like baby steps, but at least steps, every one says that the begining is the wors part, and the only one as a few can tell. I have a little pain in my arm, hope is nothing serious, I can not let me go slowly time is not a friend today.
-
-My arm is better, but i'm feeling weak, probably need some rest. I'm been little more optimist, this is working at least, I'm stronger than yesterday, and I can keep going, this might be a good story.
-
-Is late, I don't see anything, just darkness, I'm cool for sure I will remember this day, the beggining of the end
