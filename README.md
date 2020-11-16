@@ -35,3 +35,5 @@ Day 2, Super tired, is so dark but I can not sleep, for some reazon my head don'
 I fill I'm going forward, like baby steps, but at least steps, every one says that the begining is the wors part, and the only one as a few can tell. I have a little pain in my arm, hope is nothing serious, I can not let me go slowly time is not a friend today.
 
 My arm is better, but i'm feeling weak, probably need some rest. I'm been little more optimist, this is working at least, I'm stronger than yesterday, and I can keep going, this might be a good story.
+
+Is late, I don't see anything, just darkness, I'm cool for sure I will remember this day, the beggining of the end
