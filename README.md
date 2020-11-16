@@ -1,5 +1,12 @@
 # ttot
 The Tower of Twitch
+## What is this?
+This is Forsaker agains The Tower of Twitch, the unique tower who is able to draw your destiny.
+The Tower of Twitch, the place where the dreams come true, but only if you reach the top.
+
+## Why?
+Because is tragic dying while recheing your dream, but is more tragic and sad be withness of that.
+
 # Author: Sergio Sebastián Canales Espinoza <sergio.canales.e@gmail.com>
 # Collaborators
 We are receiving PR for the story, any recomendation is welcome
