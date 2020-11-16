@@ -11,7 +11,7 @@ Because is tragic dying while recheing your dream, but is more tragic and sad be
 # Collaborators
 We are receiving PR for the story, any recomendation is welcome
 # [MAIN MENU] Whatch LIVE
-![t.tv/ForsakerBenAdar](https://www.twitch.tv/forsakerbenadar)
+[t.tv/ForsakerBenAdar](https://www.twitch.tv/forsakerbenadar)
 ## [Character]Forsaker Ben Adar, AKA Forsa
 - Level: 3
 - Floor 1
