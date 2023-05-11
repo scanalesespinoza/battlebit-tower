@@ -6,7 +6,7 @@ This is Forsaker agains The BattleBit Tower, the unique tower who is able to dra
 BattleBit Tower, the place where the dreams come true, but only if you reach the top.
 
 ## Why?
-Because is tragic dying while recheing your dream, but is more tragic and sad be withness of that.
+Because is tragic dying while reaching your dream, but is more tragic and sad be withness of that.
 
 # Author: Sergio Sebastián Canales Espinoza <sergio.canales.e@gmail.com>
 
